@@ -1,3 +1,4 @@
 .idea/
 features.csv
 labels.csv
+venv/
